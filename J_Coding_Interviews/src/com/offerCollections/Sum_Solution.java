@@ -18,7 +18,7 @@ public class Sum_Solution {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 //       测试方法	
-		int sum =sum_Solution(100);
+		int sum =sum_Solution(1000);
 		System.out.println(sum);
 	}
 
